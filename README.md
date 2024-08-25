@@ -1,6 +1,6 @@
 # Clean Cutters Collection
 
-This simple Blender script is primarily designed for Boxcutter users to help organize and clean up unused cutter objects from the 'Cutters' collection. It moves unused cutters to a separate collection named 'Unused Cutters' and assigns a red color to this new collection. And why not, it could also be useful for other users who need to manage and clean up unused objects in their Blender projects by modifiying the script.
+This simple Blender script is primarily designed for Boxcutter users to help organize and clean up unused cutter objects from the 'Cutters' collection. It moves unused cutters to a separate collection named 'Unused Cutters' and assigns a red color to this new collection. And why not, by modifiying the script it could also be useful for other users who need to manage and clean up unused objects in their Blender projects.
 
 ## Features
 

@@ -1,6 +1,6 @@
 # Clean Cutters Collection Addon
 
-This simple Blender addon helps you organize and clean up unused cutter objects from the 'Cutters' collection. It moves unused cutters to a separate collection named 'Unused Cutters' and assigns a red color to this new collection for easy identification.
+This simple Blender addon helps you organize and clean up unused cutter objects from the 'Cutters' collection. It moves unused cutters to a separate collection named 'Unused Cutters' and assigns a red color to this new collection.
 
 ## Features
 

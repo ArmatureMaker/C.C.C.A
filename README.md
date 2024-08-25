@@ -14,7 +14,7 @@ This simple Blender addon helps you organize and clean up unused cutter objects 
 
 ## License
 
-This addon is released under the MIT License. See `LICENSE` for more details.
+This addon is released under the GNU General Public License v3.0. See `LICENSE` for more details.
 
 ## Disclaimer
 

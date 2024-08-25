@@ -8,9 +8,10 @@ This simple Blender script is primarily designed for Boxcutter users to help org
 - The 'Unused Cutters' collection is automatically assigned a red color to distinguish it from other collections.
 
 ## Usage
+
 - Run the script directly inside Blender because if you load it as an addon it might not work.
 - Access the pie menu with the `Ctrl + Alt + X` keyboard shortcut to trigger the cleaning process.
-- 
+
 ## Troubleshooting
 
 - **Collection Not Found**: Ensure that there is a collection named 'Cutters' in your scene.
